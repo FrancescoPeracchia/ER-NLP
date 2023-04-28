@@ -1,3 +1,8 @@
+
+# Solution
+**read me** :  [report](report.pdf)
+
+
 # NLP 2022: Homework #3
 
 This is the third homework of the NLP 2022 course at Sapienza University of Rome.
